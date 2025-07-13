@@ -7,8 +7,8 @@ In this project, you will learn how to extract a gene expression matrix from FAS
 
 ## Project Report & Questions <a name="project-files"></a>
 
--  [Project Report – RNA-Seq Analysis](https://github.com/mariyagolchin/RNA-Seq-analysis/blob/main/Report2_AIB_proj2_1402_20%20khordad_1.pdf)  
 -  [Project Questions PDF](https://github.com/mariyagolchin/RNA-Seq-analysis/blob/main/AIB_proj2_1402.pdf)
+-  [Project Report – RNA-Seq Analysis](https://github.com/mariyagolchin/RNA-Seq-analysis/blob/main/Report2_AIB_proj2_1402_20%20khordad_1.pdf)  
 
 
 ## Table of Contents
