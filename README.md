@@ -13,12 +13,12 @@ In this project, you will learn how to extract a gene expression matrix from FAS
 
 ## Table of Contents
 
-- [Data Preparation](#data-preparation)
-- [Part A – Quality Control and Trimming](#part-a)
-- [Part B – Read Mapping](#part-b)
-- [Part C – Building Gene Expression Matrix](#part-c)
-- [Part D – Differential Gene Expression Analysis](#part-d)
-- [Part E – Gene Ontology Enrichment Analysis](#part-e)
+- Data Preparation
+- Part A – Quality Control and Trimming
+- Part B – Read Mapping](#part-b)
+- Part C – Building Gene Expression Matrix
+- Part D – Differential Gene Expression Analysis
+- Part E – Gene Ontology Enrichment Analysis
 
  ### Prerequisites
 
