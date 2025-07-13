@@ -1,97 +1,61 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
+# 🧬 RNA-Seq Analysis
 
+<div align="left">
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="LEFT">
+<h3 align="left">Department of Bioinformatics, IBB, University of Tehran</h3>
 
-<h1 align="left">RNA-Seq analysis </h1>
-
-  <p align="left">
-    Department of Bioinformatics, IBB, University of Tehran
-    <br />
-  </p>
 </div>
 
+---
 
+## 📁 Table of Contents
 
+- [Data Preparation](#data-preparation)
+- [Part A – Quality Control and Trimming](#part-a)
+- [Part B – Read Mapping](#part-b)
+- [Part C – Building Gene Expression Matrix](#part-c)
+- [Part D – Differential Gene Expression Analysis](#part-d)
+- [Part E – Gene Ontology Enrichment Analysis](#part-e)
+- [📄 Project Report & Questions](#project-files)
+- [Getting Started](#getting-started)
+- [Contact](#contact)
+- [Acknowledgments](#acknowledgments)
 
-<!-- ABOUT THE Contents -->
-## Table of Contents
+---
 
-<a href="#about-the-project">Data preparation</a>
+## 🧪 Project Overview
 
-<a href="#about-the-project">Part a- Quality control and trimming</a>
+In this project, you will learn how to extract a gene expression matrix from FASTQ files and perform advanced analysis on the resulting data. Specifically, you will analyze next-generation sequencing expression profiles of unpaired normal and COVID-19 FFPE bronchoalveolar lavage or lung samples from the study with accession number **GSE190496**.
 
-<a href="#about-the-project">Part b- Read mapping</a>
+---
 
-<a href="#about-the-project">Part c- Building gene expression matrix</a>
+## 📄 Project Report & Questions <a name="project-files"></a>
 
-<a href="#about-the-project">Part d- Differential gene expression analysis</a>
+- 📘 [Project Report – RNA-Seq Analysis](https://github.com/mariyagolchin/RNA-Seq-analysis/blob/main/Report2_AIB_proj2_1402_20%20khordad_1.pdf)  
+- ❓ [Project Questions PDF](https://github.com/mariyagolchin/RNA-Seq-analysis/blob/main/AIB_proj2_1402.pdf)
 
-<a href="#about-the-project">Part e- Gene Ontology enrichment analysis</a>
+---
 
-
-<!-- ABOUT THE PROJECT -->
-## ROADMAP
-
-In this project, you will learn how to extract a gene expression matrix from fastq files and perform advanced analysis on the resulting data. Specifically, you will analyze the next-generation sequencing expression profiles of unpaired normal and COVID-19
-FFPE bronchoalveolar lavage or lung samples from a study with accession number GSE190496. The table below provides information about the selected samples from this study that will be used in your analysis.
-
-
-<!-- GETTING STARTED -->
-## Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 
+- **Normal Sample:** SRR17172481 (Single-end)  
+- **Patient Sample:** SRR17172485 (Single-end)
 
-* Normal: SRR17172481 :single end
-* Patient: SRR17172485: single end
+---
 
+## 📬 Contact
 
+**Mahboobeh (Mariya) Golchinpour Leili**  
+📧 m.golchinpor@ut.ac.ir  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/mariyagolchinpour/)
 
-<!-- CONTACT -->
-## Contact
+---
 
-Mahboobeh(Mariya) Golchinpour leili - [@LinkedIn](https://www.linkedin.com/in/mariyagolchinpour/) - m.golchinpor@ut.ac.ir
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## 🙌 Acknowledgments
 
 Department of Bioinformatics, IBB, University of Tehran
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
