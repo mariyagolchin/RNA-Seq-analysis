@@ -19,10 +19,6 @@ In this project, you will learn how to extract a gene expression matrix from FAS
 - [Part C – Building Gene Expression Matrix](#part-c)
 - [Part D – Differential Gene Expression Analysis](#part-d)
 - [Part E – Gene Ontology Enrichment Analysis](#part-e)
-- [📄 Project Report & Questions](#project-files)
-- [Getting Started](#getting-started)
-- [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
 
  ### Prerequisites
 
